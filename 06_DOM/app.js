@@ -8,5 +8,5 @@ var headerTitle = document.getElementById('header-title');
 var header = document.getElementById('main-header');
 //console.log(header);
 headerTitle.textContent = 'Hola';
-headerTitle.innerText = 'Adios';
+headerTitle.innerText = 'Hello 2';
 headerTitle.innerHTML = '<h3>Prueba</h3>';
